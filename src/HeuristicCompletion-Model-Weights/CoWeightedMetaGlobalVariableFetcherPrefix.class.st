@@ -15,8 +15,8 @@ Class {
 		'fetchersAndWeights',
 		'completionClass'
 	],
-	#category : 'ExtendedHeuristicCompletion-Weights',
-	#package : 'ExtendedHeuristicCompletion-Weights'
+	#category : 'HeuristicCompletion-Model-Weights',
+	#package : 'HeuristicCompletion-Model-Weights'
 }
 
 { #category : 'accessing' }

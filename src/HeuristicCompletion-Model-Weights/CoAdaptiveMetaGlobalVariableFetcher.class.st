@@ -40,8 +40,8 @@ Class {
 		'fetchersAndWeights',
 		'successCounts'
 	],
-	#category : 'ExtendedHeuristicCompletion-Weights',
-	#package : 'ExtendedHeuristicCompletion-Weights'
+	#category : 'HeuristicCompletion-Model-Weights',
+	#package : 'HeuristicCompletion-Model-Weights'
 }
 
 { #category : 'initialization' }
