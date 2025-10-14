@@ -10,6 +10,6 @@ BaselineOfExtendedHeuristicCompletionWeights >> baseline: spec [
 	<baseline>
 	
 	spec for: #common do: [ 
-		spec package: 'HeuristicCompletion-Model-Weights'.
+		spec package: 'ExtendedHeuristicCompletion-Weights'.
 		]
 ]
